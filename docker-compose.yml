@@ -5,4 +5,4 @@ services:
     volumes:
       - /opt/webshare:/public
     ports:
-      - "8080:8080"
+      - "14724:8080"
